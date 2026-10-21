@@ -126,3 +126,7 @@ VITE_BASE=/Looksmith/ npm run build
 <div align="center">
 <sub>Looksmith · forge the look, ship the prompt</sub>
 </div>
+
+## Development and AI assistance
+
+The default-branch history includes contributions explicitly attributed to Claude / GitHub Copilot ([example](https://github.com/ProfessorEngineergit/Looksmith/commit/e5d1852f847e715f00eb84ff286c0c57f459802e)). This documents AI involvement in those contributions; it does not establish the origin of every line or independent validation. Existing author, co-author and session records are retained.
